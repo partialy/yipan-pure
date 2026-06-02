@@ -1,0 +1,6 @@
+{
+  "name": "Personal Cloud Drive",
+  "description": "A clean, modern personal drive system for storing, organizing, searching, previewing, and sharing files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
